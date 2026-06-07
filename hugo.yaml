@@ -47,13 +47,13 @@ params:
 
   homeInfoParams:
     Title: "Hi, I'm Colton"
-    Content: "Software engineer. I write about things I'm building and thinking about."
+    Content: "I made this blog for everything that wont fit in 144 characters."
 
   socialIcons:
     - name: github
       url: "https://github.com/coltonspurgin"
-    - name: x
-      url: "https://x.com/coltonspurgin"
+    - name: fosstodon
+      url: "https://fosstodon.org/@Khing"
 
   cover:
     hidden: true
