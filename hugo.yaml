@@ -1,4 +1,4 @@
-baseURL: "https://blog.coltonspurgin.tech/"
+baseURL: "https://blog.coltonspurgin.com/"
 languageCode: "en-us"
 title: "Colton Spurgin"
 theme: "PaperMod"
@@ -61,7 +61,7 @@ params:
     hiddenInSingle: true
 
   editPost:
-    URL: "https://github.com/coltonspurgin/blog/edit/main/content"
+    URL: "https://github.com/kh1ng/blog/edit/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
